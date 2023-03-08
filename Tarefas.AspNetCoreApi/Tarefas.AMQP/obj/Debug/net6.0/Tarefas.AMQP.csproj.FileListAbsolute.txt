@@ -1,0 +1,15 @@
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.deps.json
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.Model.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\bin\Debug\net6.0\Tarefas.Model.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.AssemblyReference.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.AssemblyInfoInputs.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.AssemblyInfo.cs
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.csproj.CopyComplete
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\refint\Tarefas.AMQP.dll
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\Tarefas.AMQP.pdb
+C:\Users\Ramon\Documents\Projeto tarefas com Rabbit MQ\Tarefas.AspNetCoreApi\Tarefas.AMQP\obj\Debug\net6.0\ref\Tarefas.AMQP.dll
